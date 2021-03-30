@@ -4,6 +4,7 @@
  - [Action Recognition](#action-recognition)
  - [Object Recognition](#object-recognition)
  - [Pose Estimation](#pose-estimation)
+ - [Tracking)(#tracking)
  - [ML](#machine-learning)
 
 ## Action Recognition
@@ -15,3 +16,8 @@
 ## Object Recognition
 
 ## Pose Estimation
+
+## ML
+
+## Tracking
+* Kalman Filter - https://arxiv.org/pdf/1204.0375.pdf
