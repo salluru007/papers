@@ -4,7 +4,7 @@
  - [Action Recognition](#action-recognition)
  - [Object Recognition](#object-recognition)
  - [Pose Estimation](#pose-estimation)
- - [Tracking)(#tracking)
+ - [Tracking](#tracking)
  - [ML](#machine-learning)
 
 ## Action Recognition
