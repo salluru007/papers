@@ -17,7 +17,10 @@
 
 ## Pose Estimation
 
-## ML
+## ML/DL Basics
+* Backpropogation
+* Exploding and Vanishing Gradients
+* Loss Functions
 * [Batch Normalization](https://kyleluther.github.io/2020/02/18/batchnorm-exploding-gradients.html#:~:text=Deep%20learning%20practitioners%20know%20that,harder%20to%20train%20deep%20networks)
 
 ## Tracking
