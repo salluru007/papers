@@ -18,6 +18,7 @@
 ## Pose Estimation
 
 ## ML
+* [Batch Normalization](https://kyleluther.github.io/2020/02/18/batchnorm-exploding-gradients.html#:~:text=Deep%20learning%20practitioners%20know%20that,harder%20to%20train%20deep%20networks)
 
 ## Tracking
 * Kalman Filter - https://arxiv.org/pdf/1204.0375.pdf
