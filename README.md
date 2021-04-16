@@ -29,4 +29,4 @@
 * Kalman Filter - https://arxiv.org/pdf/1204.0375.pdf
 
 ## Classical CV
-* A tutorial on PCA
+* [A tutorial on PCA](https://arxiv.org/pdf/1404.1100.pdf)
