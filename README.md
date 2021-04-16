@@ -6,6 +6,7 @@
  - [Pose Estimation](#pose-estimation)
  - [Tracking](#tracking)
  - [ML](#machine-learning)
+ - [Classical CV](#classical-cv)
 
 ## Action Recognition
 
@@ -26,3 +27,6 @@
 
 ## Tracking
 * Kalman Filter - https://arxiv.org/pdf/1204.0375.pdf
+
+## Classical CV
+* A tutorial on PCA
