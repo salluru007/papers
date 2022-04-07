@@ -6,6 +6,7 @@
  - [Pose Estimation](#pose-estimation)
  - [Tracking](#tracking)
  - [ML](#machine-learning)
+ - [Fine Grained Classification](#fine-grained-classificaition)
  - [Classical CV](#classical-cv)
 
 ## Action Recognition
@@ -30,3 +31,6 @@
 
 ## Classical CV
 * [A tutorial on PCA](https://arxiv.org/pdf/1404.1100.pdf)
+
+## Fine Grained Classification
+Meta Former - https://arxiv.org/pdf/2203.02751.pdf
