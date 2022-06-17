@@ -16,6 +16,8 @@
 * [Literature Survey: Human Action Recognition](https://towardsdatascience.com/literature-survey-human-action-recognition-cc7c3818a99a) - Brief human action recognition literature survey of work published between 2014 and 2019.
 
 ## Object Recognition
+### Tools
+* https://milvus.io/docs/v2.0.x/overview.md
 
 ## Pose Estimation
 
